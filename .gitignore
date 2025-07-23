@@ -49,3 +49,10 @@ data/processed/
 # Ignore local config
 config.yaml
 secrets.yaml
+
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:alexpchin/Customer-Lifetime-Value-Prediction.git
+git push -u origin main
