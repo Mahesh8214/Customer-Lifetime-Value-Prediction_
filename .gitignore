@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints
+
+# Mac OS system files
+.DS_Store
+
+# Output files
+*.csv
+*.xlsx
+
+# Plot images
+*.png
+*.jpg
+
+# Logs
+*.log
+
+# Flask-related cache
+instance/
+*.db
+*.sqlite3
+
+# Pytest
+.cache/
+
+# Data directories
+data/raw/
+data/processed/
+
+# Generated models or pickles
+*.pkl
+*.joblib
+
+# Ignore local config
+config.yaml
+secrets.yaml

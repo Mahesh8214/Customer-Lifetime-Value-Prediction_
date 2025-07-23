@@ -1,0 +1,10 @@
+# Python project dependencies
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblib
+xgboost
+flask
